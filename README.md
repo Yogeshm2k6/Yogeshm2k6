@@ -267,7 +267,7 @@ I enjoy strengthening my problem-solving skills through competitive programming 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/Yogesh_2203">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
