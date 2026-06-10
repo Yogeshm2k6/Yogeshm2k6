@@ -261,6 +261,29 @@ LLM Applications
 Streamlit • Power BI • REST APIs • LangChain
 
 ---
+# 🧠 Problem Solving
+
+I enjoy strengthening my problem-solving skills through competitive programming and algorithmic challenges.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+### Highlights
+
+✔ Data Structures & Algorithms
+
+✔ Problem Solving
+
+✔ Competitive Programming
+
+✔ Algorithm Optimization
+
+✔ Coding Interview Preparation
 
 # 📈 GitHub Analytics
 
